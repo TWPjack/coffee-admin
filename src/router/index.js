@@ -11,7 +11,7 @@ const routes = [
     name: 'Home',
     component: Home,
     meta: {
-      title: '線上相簿'
+      title: '管理系統'
     }
   },
   {
